@@ -1,0 +1,30 @@
+{
+
+    "artista":[{
+        
+        "nome":"rebeca",
+        "naci": "brasil",
+        "idade": 30
+    }
+
+    ],
+
+    "album":[
+
+        {
+
+            "nome_album": "lua",
+            "lançam": "2000"
+        }
+    ],
+    "musica":[
+        {
+            "Nmusica": "esperança",
+            "Nartista": "luna",
+            "ano": "1010",
+            "Nalbum": "lua"
+        }
+    ]
+
+
+}
